@@ -1,13 +1,13 @@
 /* This project is mobile-first desingned */
 
 html {
-  box-sizing: border-box;
   font-size: 10px;
 }
 
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 /* reset */
